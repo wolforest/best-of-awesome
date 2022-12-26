@@ -2,4 +2,4 @@
 ----
 
 ## beginner
-* [poetry] ()https://python-poetry.org/) PYTHON PACKAGING AND DEPENDENCY MANAGEMENT tool
+* [poetry] ()https://python-poetry.org/) Python dependency management and packaging made easy 
