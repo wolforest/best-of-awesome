@@ -8,4 +8,7 @@
 * [databases](www.encode.io/databases/) Async database support for Python.
 * ~[SQLAlchemy](https://www.sqlalchemy.org/) Python SQL toolkit and Object Relational Mapper.~
 * [FastAPI](fastapi.tiangolo.com/) modern fast (high-performance), web framework. 
+* [httpx](https://www.python-httpx.org/) A next generation HTTP client for Python
+* [aiocache](http://aiocache.readthedocs.io/) Asyncio cache manager for redis, memcached and memory
+
 
