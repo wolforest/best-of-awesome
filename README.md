@@ -13,5 +13,8 @@
 * [FastAPI](fastapi.tiangolo.com/) modern fast (high-performance), web framework. 
 * [httpx](https://www.python-httpx.org/) A next generation HTTP client for Python
 * [aiocache](http://aiocache.readthedocs.io/) Asyncio cache manager for redis, memcached and memory
+* [jinja](https://jinja.palletsprojects.com/) A very fast and expressive template engine.
+* [boltons](https://boltons.readthedocs.org/) 250+ constructs, recipes, and snippets which extend the Python standard library
+* [awesome Python](https://awesome-python.com/) A curated list of awesome Python frameworks, libraries, software and resources
 
 
