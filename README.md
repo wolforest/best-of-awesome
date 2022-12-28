@@ -26,6 +26,7 @@
 ## data science
 * [pandas](https://pandas.pydata.org/) fast, powerful, flexible and easy to use open source data analysis and manipulation tool
 * [numpy](https://numpy.org/) The fundamental package for scientific computing with Python
+* [matplotlib](https://matplotlib.org/) a comprehensive library for creating static, animated, and interactive visualizations
 * [jupyter](https://jupyter.org/) web-based interactive development environment for notebooks, code, and data
 * [scikit-learn](https://scikit-learn.org/) Simple and efficient tools for predictive data analysis
 * [funNLP](https://github.com/fighting41love/funNLP) A collection of tools and datasets for Chinese NLP
