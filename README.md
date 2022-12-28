@@ -6,6 +6,7 @@
 
 ## best open source projects for beginner
 * [poetry](https://python-poetry.org/) Python dependency management and packaging made easy 
+* [pytest](https://www.pytest.org/) A mature full-featured Python testing tool.
 * [click](http://click.pocoo.org/dev/) A package for creating beautiful command line interfaces in a composable way.
 * [rich](https://github.com/willmcgugan/rich) Python library for rich text and beautiful formatting in the terminal.
 * [databases](www.encode.io/databases/) Async database support for Python.
