@@ -20,6 +20,7 @@
 ## dev ops
 * [ansible](https://www.ansible.com/) IT automation platform that makes your applications and systems easier to deploy and maintain.
 * [salt](https://repo.saltproject.io/) Software to automate the management and configuration of any infrastructure or application at scale
+* [Supervisor](http://supervisord.org/) Supervisor process control system for Unix (supervisord)
 
 
 ## data science
