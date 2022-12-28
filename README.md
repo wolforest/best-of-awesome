@@ -1,5 +1,4 @@
 # Best Python
-----
 
 ## docs for beginner
 * [project structure](./docs/structure.md)
