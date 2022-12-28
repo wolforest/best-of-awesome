@@ -3,6 +3,7 @@
 
 ## docs for beginner
 * [project structure](./docs/structure.md)
+# [basic syntax](./docs/syntax.md)
 
 ## best open source projects for beginner
 * [poetry](https://python-poetry.org/) Python dependency management and packaging made easy 
