@@ -16,51 +16,51 @@ in 用于成员检测
 
 Python 中使用 id() 函数获取对象的标识号，可以理解为内存地址
 ```
-In [49]: a = 1
-In [50]: b = 1
-In [51]: id(a)
-Out[51]: 140708412432784
-In [52]: id(b)
-Out[52]: 140708412432784
-In [53]: a is b
-Out[53]: True
+In : a = 1
+In : b = 1
+In : id(a)
+Out: 140708412432784
+In : id(b)
+Out: 140708412432784
+In : a is b
+Out: True
 
-In [54]: s1 = 'abc'
-In [55]: s2 = 'abc'
-In [56]: id(s1)
-Out[56]: 1554773534064
-In [57]: id(s2)
-Out[57]: 1554773534064
-In [58]: s1 is s2
-Out[58]: True
+In : s1 = 'abc'
+In : s2 = 'abc'
+In : id(s1)
+Out: 1554773534064
+In : id(s2)
+Out: 1554773534064
+In : s1 is s2
+Out: True
 ```
 ```
 #string
-In [104]: '234' in '12345'
-Out[104]: True
+In : '234' in '12345'
+Out: True
 
 #list
-In [106]: [1,2] in [[1,2],3,'abc']
-Out[106]: True
-In [107]: lst = [[1,2],3,'abc']
-In [109]: [1,2] in lst
-Out[109]: True
-In [110]: 'abc' in lst
-Out[110]: True
+In : [1,2] in [[1,2],3,'abc']
+Out: True
+In : lst = [[1,2],3,'abc']
+In : [1,2] in lst
+Out: True
+In : 'abc' in lst
+Out: True
 
 #dict
-In [111]: dct = {'a':12,'b':35,'key':'abc'}
-In [112]: 'a' in dct
-Out[112]: True
-In [113]: 'key' in dct
-Out[113]: True
+In : dct = {'a':12,'b':35,'key':'abc'}
+In : 'a' in dct
+Out: True
+In : 'key' in dct
+Out: True
 
-In [114]: 12 in dct
-Out[114]: False
-In [115]: 12 in dct.values()
-Out[115]: True
-In [116]: 'abc' in dct.values()
-Out[116]: True
+In : 12 in dct
+Out: False
+In : 12 in dct.values()
+Out: True
+In : 'abc' in dct.values()
+Out: True
 ```
 
 
