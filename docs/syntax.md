@@ -2,6 +2,7 @@
 
 ### None
 The None keyword is used to define a null value, or no value at all.
+
 None is not the same as 0, False, or an empty string. None is a data type of its own (NoneType) and only None can be None.
 
 ### 万能的not
@@ -11,7 +12,9 @@ not None == not False == not '' == not 0 == not [] == not {} == not ()
 
 ### is in ==
 is 用于判断两个变量引用对象是否为同一个
+
 == 用于判断引用变量的值是否相等
+
 in 用于成员检测
 
 Python 中使用 id() 函数获取对象的标识号，可以理解为内存地址
