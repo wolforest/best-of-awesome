@@ -9,9 +9,9 @@
 * [pytest](https://www.pytest.org/) A mature full-featured Python testing tool.
 * [click](http://click.pocoo.org/dev/) A package for creating beautiful command line interfaces in a composable way.
 * [rich](https://github.com/willmcgugan/rich) Python library for rich text and beautiful formatting in the terminal.
-* [databases](www.encode.io/databases/) Async database support for Python.
+* [databases](https://www.encode.io/databases/) Async database support for Python.
 * ~[SQLAlchemy](https://www.sqlalchemy.org/) Python SQL toolkit and Object Relational Mapper.~
-* [FastAPI](fastapi.tiangolo.com/) modern fast (high-performance), web framework. 
+* [FastAPI](https://fastapi.tiangolo.com/) modern fast (high-performance), web framework. 
 * [httpx](https://www.python-httpx.org/) A next generation HTTP client for Python
 * [aiocache](http://aiocache.readthedocs.io/) Asyncio cache manager for redis, memcached and memory
 * [jinja](https://jinja.palletsprojects.com/) A very fast and expressive template engine.
