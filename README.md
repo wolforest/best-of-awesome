@@ -35,5 +35,5 @@
 * [pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
 * [tensorflow](https://github.com/tensorflow/tensorflow)  The most popular Deep Learning framework created by Google.
 * [beautiful soup](https://www.crummy.com/software/BeautifulSoup/) get data out of html page
-
+* [textract](https://github.com/deanmalmgren/textract) xtract text from any document
 
