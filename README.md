@@ -16,7 +16,11 @@
 * [aiocache](http://aiocache.readthedocs.io/) Asyncio cache manager for redis, memcached and memory
 * [jinja](https://jinja.palletsprojects.com/) A very fast and expressive template engine.
 * [boltons](https://boltons.readthedocs.org/) 250+ constructs, recipes, and snippets which extend the Python standard library
+* [arrow](https://github.com/arrow-py/arrow) Better dates & times for Python
 * [awesome Python](https://awesome-python.com/) A curated list of awesome Python frameworks, libraries, software and resources
+
+## multimedia
+* [Pillow](https://python-pillow.org/) Python Imaging Library
 
 ## dev ops
 * [ansible](https://www.ansible.com/) IT automation platform that makes your applications and systems easier to deploy and maintain.
