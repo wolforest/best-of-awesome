@@ -38,6 +38,7 @@
 * [jieba](https://github.com/fxsjy/jieba) The most popular Chinese text segmentation library
 * [pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
 * [tensorflow](https://github.com/tensorflow/tensorflow)  The most popular Deep Learning framework created by Google.
+* [transformers](https://github.com/huggingface/transformers) State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 * [beautiful soup](https://www.crummy.com/software/BeautifulSoup/) get data out of html page
 * [textract](https://github.com/deanmalmgren/textract) xtract text from any document
 
