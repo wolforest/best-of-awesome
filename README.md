@@ -7,10 +7,7 @@
 ## best open source projects for beginner
 * [poetry](https://python-poetry.org/) Python dependency management and packaging made easy 
 * [pytest](https://www.pytest.org/) A mature full-featured Python testing tool.
-* [click](http://click.pocoo.org/dev/) A package for creating beautiful command line interfaces in a composable way.
-* [rich](https://github.com/willmcgugan/rich) Python library for rich text and beautiful formatting in the terminal.
 * [databases](https://www.encode.io/databases/) Async database support for Python.
-* ~[SQLAlchemy](https://www.sqlalchemy.org/) Python SQL toolkit and Object Relational Mapper.~
 * [FastAPI](https://fastapi.tiangolo.com/) modern fast (high-performance), web framework. 
 * [httpx](https://www.python-httpx.org/) A next generation HTTP client for Python
 * [aiocache](http://aiocache.readthedocs.io/) Asyncio cache manager for redis, memcached and memory
@@ -19,6 +16,12 @@
 * [arrow](https://github.com/arrow-py/arrow) Better dates & times for Python
 * [awesome Python](https://awesome-python.com/) A curated list of awesome Python frameworks, libraries, software and resources
 * [pyyaml](https://pyyaml.org/) A full-featured YAML framework for the Python programming language.
+
+## cli
+* [click](http://click.pocoo.org/dev/) A package for creating beautiful command line interfaces in a composable way.
+* [rich](https://github.com/willmcgugan/rich) Python library for rich text and beautiful formatting in the terminal.
+* [python-fire](https://github.com/google/python-fire) Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+* [invoke](pyinvoke.org) Pythonic task management & command execution.
 
 ## multimedia
 * [Pillow](https://python-pillow.org/) Python Imaging Library
