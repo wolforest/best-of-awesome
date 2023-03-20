@@ -14,8 +14,8 @@
 * [jinja](https://jinja.palletsprojects.com/) A very fast and expressive template engine.
 * [boltons](https://boltons.readthedocs.org/) 250+ constructs, recipes, and snippets which extend the Python standard library
 * [arrow](https://github.com/arrow-py/arrow) Better dates & times for Python
-* [awesome Python](https://awesome-python.com/) A curated list of awesome Python frameworks, libraries, software and resources
 * [pyyaml](https://pyyaml.org/) A full-featured YAML framework for the Python programming language.
+* [awesome Python](https://awesome-python.com/) A curated list of awesome Python frameworks, libraries, software and resources
 
 ## cli
 * [click](http://click.pocoo.org/dev/) A package for creating beautiful command line interfaces in a composable way.
