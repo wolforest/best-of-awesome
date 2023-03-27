@@ -11,15 +11,10 @@ hello/
 │   └── app.yaml
 ├── bin
 │   └── start.sh
-├── docs
-│   └── README.md
 ├── hello
 │   └── world.py
-├── data
-├── scrapy.cfg
-├── pyproject.toml
-├── poetry.lock
 ├── docs
+├── pyproject.toml
 └── tests
     └── world_tests.py
 ```
