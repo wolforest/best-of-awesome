@@ -21,7 +21,6 @@ hello/
 
 ## __init__.py Best Practices
 __init__.py files are used to initialize Python packages. They are executed when the package is first imported.
-
 _init__.py files can be used to set up global variables, define functions and classes, and run code.
 
 While __init__.py files are not required, they are often used to customize the behavior of a package.
@@ -36,5 +35,6 @@ While __init__.py files are not required, they are often used to customize the b
 8. Use __init__.py to configure matplotlib
 9. Use __init__.py to load data files
 10. Use __init__.py to set default values for other modules
+
 
 

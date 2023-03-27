@@ -5,7 +5,7 @@
 
 ## add poetry command alias
 ```
- alias pyrun ="/path/to/poetry run python -B"
- alias pytest="/path/to/poetry run pytest -r"
- alias scrapy="/path/to/poetry run scrapy"
+    alias pyrun ="/path/to/poetry run python -B"
+    alias pytest="/path/to/poetry run pytest -r"
+    alias scrapy="/path/to/poetry run scrapy"
 ```
