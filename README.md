@@ -2,6 +2,7 @@
 
 ## docs for beginner
 * [project structure](./docs/structure.md)
+* [project & poetry](./docs/poetry.md)
 * [basic syntax](./docs/syntax.md)
 
 ## best open source projects for beginner
