@@ -3,14 +3,23 @@
 ## structure of project "hello":
 ```
 hello/
+./
 ├── LICENSE
+├── README.md
+├── config
+│   ├── app-dev.yaml
+│   └── app.yaml
 ├── bin
 │   └── start.sh
 ├── docs
 │   └── README.md
 ├── hello
 │   └── world.py
+├── data
+├── scrapy.cfg
 ├── pyproject.toml
+├── poetry.lock
+├── docs
 └── tests
     └── world_tests.py
 ```
