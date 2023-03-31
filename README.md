@@ -9,7 +9,7 @@
 * [poetry](https://python-poetry.org/) Python dependency management and packaging made easy 
 * [pytest](https://www.pytest.org/) A mature full-featured Python testing tool.
 * [pywolf](https://github.com/wolforest/pywolf) A simple python framework, config management, app context, and utils wrappers, ...
-* [FastAPI](https://fastapi.tiangolo.com/) modern fast (high-performance), web framework. 
+* [FastAPI](https://fastapi.tiangolo.com/) modern fast web framework. ([vs flask](https://www.turing.com/kb/fastapi-vs-flask-a-detailed-comparison))
 * [databases](https://www.encode.io/databases/) Async database support for Python.
 * [httpx](https://www.python-httpx.org/) A next generation HTTP client for Python
 * [redis-py](https://github.com/redis/redis-py) Redis Python Client(with asyncio support)
